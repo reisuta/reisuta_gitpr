@@ -1,4 +1,4 @@
 # reisuta_gitpr
 fetch
 
-fetch
+OS self create
